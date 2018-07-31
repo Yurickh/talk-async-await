@@ -1,0 +1,12 @@
+{
+  "name": "talk-async-await",
+  "version": "1.0.0",
+  "description": "Lightning talk for Novatics",
+  "main": "promises.js",
+  "author": "Yurick <yurick.hauschild@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "babel-core": "^6.26.3"
+  }
+}
