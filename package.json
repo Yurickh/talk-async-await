@@ -7,6 +7,6 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "babel-core": "^6.26.3"
+    "@babel/core": "^7.5.5"
   }
 }
